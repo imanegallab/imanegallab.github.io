@@ -1,0 +1,124 @@
+
+#first{
+    width: 100px;
+    height: 100px;
+    background-color: #d99694;
+    border: solid 2px  #385d8a;
+    position:absolute 100px ;
+    margin: 1px;
+   
+
+}
+#second{
+    width: 100px;
+    height: 100px;
+    background-color: #c4bd97;
+    border: solid 2px #385d8a;
+    position:absolute 100px ;
+    margin:1px;
+   
+}
+#third{
+    width: 100px;
+    height: 100px;
+    background-color: #558ed5;
+    border: solid 2px #385d8a;
+    position:absolute 100px ;
+     margin:1px;
+}
+
+#first1{
+    width: 100px;
+    height: 100px;
+    background-color: #d99694;
+    border: solid 2px  #385d8a;
+     position:absolute 100px ;
+   
+
+}
+#second2{
+    width: 100px;
+    height: 100px;
+    background-color: #c4bd97;
+    border: solid 2px #385d8a;
+   position:absolute 100px ;
+   margin: 0px 102px;
+ 
+}
+#third3{
+    width: 100px;
+    height: 100px;
+    background-color: #558ed5;
+    border: solid 2px #385d8a;
+    position:absolute 100px;
+   margin: 0px 204px;
+}
+
+#first10{
+    width: 300px;
+    height: 100px;
+    background-color: #d99694;
+    border: solid 2px  #385d8a;
+     position:absolute 100px;
+     margin:1px;
+}
+#second20{
+    width: 100px;
+    height: 100px;
+    background-color: #c4bd97;
+    border: solid 2px #385d8a;
+      position:absolute ; 
+}
+#third30{
+    width: 100px;
+    height: 100px;
+    background-color: #558ed5;
+    border: solid 2px #385d8a;
+    position:absolute ;
+   margin:0px 200px;
+}
+
+#first100{
+    width: 100px;
+    height: 100px;
+    background-color: #d99694;
+    border: solid 2px  #385d8a;
+    margin: 1px;
+    position:absolute;
+}
+#second200{
+    width: 100px;
+    height: 100px;
+    background-color: #558ed5 ;
+    border: solid 2px #385d8a;
+    margin:1px;
+   margin:0px 3px 0px 107px;
+}
+#third300{
+    width: 100px;
+    height: 100px;
+    background-color: #c4bd97 ;
+    border: solid 2px #385d8a;
+    margin:2px;
+}
+#one,#two,#three,#four
+{   
+    display: inline-block;
+    margin: 10px ;
+    float: left; 
+}
+#three{
+    margin-left: 2px;}
+    h1{
+    color:blue;
+    font-family: choco cooky;
+    font-size: 20px;
+}
+.figure4{
+    margin: 100px 0px 0px 0px;
+}
+.figure3{
+    margin: 208px 0px 0px 0px;
+}
+
+
