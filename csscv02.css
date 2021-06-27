@@ -1,0 +1,106 @@
+#first{
+height: 250px;
+    background-color: grey;
+
+}
+#second{
+
+width: 250px;
+	height:800px;
+    background-color:grey;
+
+}
+h1
+{
+	margin:-200px 400px;
+}
+#table01{
+	margin:220px 400px;
+}
+
+#third
+{
+	
+	height: 80px;
+	background-color: none;
+	margin:-750px 250px ;
+}
+#experiences_cv{
+	width:1020px;
+	height: 40px;
+	background-color: yellow;
+}
+#forth
+{
+	
+	height: 50px;
+	background-color: none;
+	margin:860px 250px ;
+}
+#competence_cv
+{width:1020px;
+height: 40px;
+background-color: yellow;
+}
+
+#fifth
+{
+	
+	height: 40px;
+	background-color: none;
+	margin:-730px 250px ;	
+}
+
+#qualite_cv{
+width:1020px;
+height: 50px;
+background-color: yellow;
+
+}
+#sixth
+{
+	width:1020px;
+	height: 40px;
+	background-color: yellow;
+	margin:860px 250px ;	
+}
+
+#seventh
+{
+
+height: 200px;
+  background-color: grey;
+
+ margin:-710px 1px;	
+}
+#form
+{
+	margin:10px 250px ;
+}
+#title
+{
+	font-size: 70px;
+	font-family: arial;
+}
+strong
+{
+	font-size: 20px;
+}
+.one
+{
+	background-color: white;
+	width:200px;
+	height: 20px; 
+	font-size: 20px;
+	border-style: solid;
+	border-radius: 60px;
+	text-align: center;
+}
+img
+{
+	border-radius: 100px;
+}
+a
+{
+	color: black;
+}
