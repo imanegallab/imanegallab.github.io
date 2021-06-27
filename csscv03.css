@@ -1,0 +1,86 @@
+#first{
+	   width: 250px;
+	height:900px;
+    background-color:#2a314b;
+
+}
+#second{
+  
+    width: 1080px;
+	height: 250px;
+    background-color: #e6f5fa;
+   margin: -900px 250px ;
+   font-size: 100px;
+   text-align: center;
+}
+em
+{
+	font-size: 60px;
+
+}
+#third
+{
+	width: 1080px;
+	height: 40px;
+	background-color:  #e6f5fa;
+	margin:920px 250px ;
+}
+
+#forth
+{
+	width:1080px;
+	height: 40px;
+	background-color:  #e6f5fa;
+	margin:-800px 250px ;
+}
+#fifth
+{
+	width:1080px;
+	height: 40px;
+	background-color:  #e6f5fa;
+	margin:920px 250px ;
+}
+#sixth
+{
+	width:1080px;
+	height: 40px;
+	background-color:  #e6f5fa;
+	margin:-800px 250px ;
+}
+strong
+{
+	font-size: 30px;
+}
+#seventh
+{
+
+height: 200px;
+  background-color:  #2a314b;
+
+ margin:910px 0px 0px 0px;	
+}
+
+#form
+{
+	margin:10px 250px ;
+}
+.one
+{
+	font-size: 40px;
+	border-radius: 10px;
+	background-color: white;
+
+
+}
+#table01
+{
+	margin:-20px 480px;
+}
+a
+{
+	color:black;
+}
+img
+{
+	border-radius: 100px
+}
